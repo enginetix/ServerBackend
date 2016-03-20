@@ -17,6 +17,7 @@ if(cluster.isMaster){
 var net = require('net');
 var http = require('http');
 var fs = require('fs');
+//var success=true;
 //var mongoose = require('mongoose');
 //var Schema = mongoose.Schema();
 //var utf81 = require('utf8');
